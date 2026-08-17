@@ -1,8 +1,13 @@
-# Kiwi Reload
+# Kiwi-Reload
 <img width="1106" height="821" alt="image" src="https://github.com/user-attachments/assets/f0ca31f6-48fe-476d-97df-ff3a689fa172" />
 
-Kiwi Reload just went through an urgent update! Re-Download your version to v7.2.1!
 ---
+
+> [!WARNING]
+> Kiwi Reload just went through an urgent hotfix update! Re-Download your version to v7.2.1!
+
+---
+
 # Updates
 
 - Important bug Fixed.
