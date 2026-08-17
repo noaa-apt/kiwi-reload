@@ -11,9 +11,11 @@
 # Updates
 
 - Important bug Fixed.
+  
 Current Version v7.2.1
 
-**even that its closed-source, feel free to decompile.**
+Current Experimental Version v8.0.0
+
 
 ---
 # How do I get past this stupid popup?
@@ -27,3 +29,13 @@ Current Version v7.2.1
 - **3. Search 'media.autoplay.default', then change its value from 1 to 0.**
 
 <img width="1274" height="142" alt="image" src="https://github.com/user-attachments/assets/cac83fd2-85d4-4a5b-a687-43988cceede0" />
+
+---
+
+# How do I Import Receivers in :5001?
+
+- Paste 'https://raw.githubusercontent.com/noaa-apt/kiwi-reload/refs/heads/main/data/import.txt' into the import box, and click import.
+
+---
+
+KiwiReload isn't *just* for 4625kHz, v8.0.0 Experimental comes with newer configurable settings in localhost:5001!
