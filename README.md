@@ -22,8 +22,8 @@ Current Version v7.2.1
 
 # Steps:
 
-- **1. Use Chrome**
-- **2. Type 'chrome://settings/content/sound' into your searchbar, and enter'**
-- **3. Allow the .exe file, 127.0.0.1:5000, and all kiwisdr links**
+- **1. Use Firefox.**
+- **2. Type 'about:config' into your searchbar, and enter'**
+- **3. Search 'media.autoplay.default', then change its value from 1 to 0.**
 
-<img width="690" height="265" alt="image" src="https://github.com/user-attachments/assets/ae8784c6-9ee5-4705-b2a7-39c4c501552a" />
+<img width="1274" height="142" alt="image" src="https://github.com/user-attachments/assets/cac83fd2-85d4-4a5b-a687-43988cceede0" />
