@@ -1,1 +1,2 @@
-https://kiwisdr.sk2hg.se:8073/
+https://kiwisdr.sk2hg.se:8073
+https://pb8w.proxy.kiwisdr.com:8073
