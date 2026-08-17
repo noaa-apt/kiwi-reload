@@ -1,2 +1,5 @@
 https://kiwisdr.sk2hg.se:8073
 https://pb8w.proxy.kiwisdr.com:8073
+http://tredxk.no-ip.org:8075
+http://sk6ag2.ddns.net:8072
+http://87.104.90.69:8073
