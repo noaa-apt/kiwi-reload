@@ -43,3 +43,17 @@ To quickly load a list of receivers:
 
 1. Go to the import section in the local interface (`localhost:5001`)
 2. Paste this URL into the import box:
+
+---
+
+---
+# How do I get past this stupid popup?
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e8d86f90-e0f0-4950-9547-9658eb1107a3" />
+
+---
+
+# Steps:
+- **1. Use Firefox.**
+- **2. Type 'about:config' into your searchbar, and enter'**
+- **3. Search 'media.autoplay.default', then change its value from 1 to 0.**
+<img width="1274" height="142" alt="image" src="https://github.com/user-attachments/assets/cac83fd2-85d4-4a5b-a687-43988cceede0" />
