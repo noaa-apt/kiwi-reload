@@ -1,4 +1,5 @@
 # Kiwi-Reload
+(Kiwi-Reload is now Open Source as of 9/1/2026! 🥳)
 
 **Stream UVB-76 (and other frequencies!) continuously using KiwiSDR without idle timeouts.**
 
