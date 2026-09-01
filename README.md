@@ -14,7 +14,7 @@ Kiwi-Reload automatically rotates between receivers at set intervals so your str
 | Version | Status | Notes |
 |---------|--------|-------|
 | **v7.2.1** | Stable | Recommended for most users |
-| **v8.0.0** | Experimental | New configurable settings via `localhost:5001` |
+| **v8.0.1** | Experimental | New configurable settings via `localhost:5001` |
 
 **[Download latest release](https://github.com/noaa-apt/kiwi-reload/releases)**
 
