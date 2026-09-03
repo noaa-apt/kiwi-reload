@@ -25,8 +25,8 @@ Kiwi-Reload automatically rotates between receivers at set intervals so your str
 - Automatic receiver rotation to avoid idle timeouts
 - Works with KiwiSDR and similar web-based SDRs
 - Simple local control interface on port `5001`
-- Easy receiver list import
-- Configurable frequency and settings (especially in v8.0.0)
+- Easy receiver list import (v8.0.1)
+- Configurable frequency and settings (especially in v8.0.1)
 
 ---
 
@@ -45,10 +45,11 @@ To quickly load a list of receivers:
 1. Go to the import section in the local interface (`localhost:5001`)
 2. Paste this URL into the import box:
 
+``https://raw.githubusercontent.com/noaa-apt/kiwi-reload/refs/heads/main/data/import.txt``
 ---
 
 ---
-# How do I get past this stupid popup?
+# How do I get past this blocking my screen?
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e8d86f90-e0f0-4950-9547-9658eb1107a3" />
 
 ---
