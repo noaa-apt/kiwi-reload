@@ -45,7 +45,7 @@ To quickly load a list of receivers:
 1. Go to the import section in the local interface (`localhost:5001`)
 2. Paste this URL into the import box:
 
-``https://raw.githubusercontent.com/noaa-apt/kiwi-reload/refs/heads/main/data/import.txt``
+``https://noaa-apt.github.io/kiwi-reload/data/import.txt``
 ---
 
 ---
