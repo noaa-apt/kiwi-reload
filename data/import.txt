@@ -11,3 +11,6 @@ http://4xe4gzz9q3vzm153.myfritz.net:8073
 http://okno.ddns.net:8073
 http://23108.proxy.kiwisdr.com:8073
 http://kiwisdr.ha2na.com:8073
+http://ha3pmf.dwatt.com:8074
+http://meinsdr.ddns.net:8073
+http://db0ovp.de:8073
