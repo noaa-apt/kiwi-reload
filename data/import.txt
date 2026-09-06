@@ -13,3 +13,4 @@ http://sa4bna.hopto.org:8073
 http://sa4bna.hopto.org:8074
 http://kiwisdr.sk2hg.se:8073'
 http://kotisauna.psokotka.com:9001
+http://sauna.psokotka.com:55003
