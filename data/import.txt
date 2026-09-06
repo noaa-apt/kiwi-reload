@@ -2,5 +2,10 @@ https://pb8w.proxy.kiwisdr.com:8073
 http://sk6ag2.ddns.net:8072
 http://87.104.90.69:8073
 http://rhakiwi.ddns.net:8074
-http://websdr.qrq.se/
-http://oh2moh.proxy.kiwisdr.com:8073/
+http://websdr.qrq.se
+http://oh2moh.proxy.kiwisdr.com:8073
+http://oh3aa.dy.fi:18073
+http://kotisauna.psokotka.com:9001
+http://rhakiwi.ddns.net:8073
+http://rhakiwi.ddns.net:8074
+http://rhareso.proxy.kiwisdr.com:8073
