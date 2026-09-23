@@ -59,3 +59,20 @@ To quickly load a list of receivers:
 - **2. Type 'about:config' into your searchbar, and enter'**
 - **3. Search 'media.autoplay.default', then change its value from 1 to 0.**
 <img width="1274" height="142" alt="image" src="https://github.com/user-attachments/assets/cac83fd2-85d4-4a5b-a687-43988cceede0" />
+
+
+---
+
+# Common Issues (Q&A):
+
+Q: Only a Few Receivers have been connected, the rest aren't working!
+
+A: Sometimes, Kiwi-SDR Owners may blacklist your IP if you might've ran the tool for a while! Try enabling a [VPN!](https://myiphide.com/)
+
+Q: Only a few receivers loaded in :5001, but in your `data\import.txt`, it shows way more!
+
+A: That's because in :5001, You need to load ``https://noaa-apt.github.io/kiwi-reload/data/import.txt``, and click save. If you don't see 'Import via Link', Try switching to v8.0.1.
+
+Q: Reception is really poor, I think my Kiwi-Reload is Broken!
+
+A: Sadly, Reception has nothing to do with Kiwi-Reload. That's a KiwiSDR Problem, If this problem still occurs, try removing it off the list in :5001.
